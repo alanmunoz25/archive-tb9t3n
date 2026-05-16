@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alanmunoz25.github.io/archive-tb9t3n/sitemap.xml
